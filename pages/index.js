@@ -20,7 +20,7 @@ const StyledIndex = styled.div`
       margin: 0 auto;
     }
     .desk-img {
-     width: 50%;
+     width: 46%;
      max-width: 50%;
      height: 100vh;
     }
